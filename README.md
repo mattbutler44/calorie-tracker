@@ -1,2 +1,2 @@
 # calorie-tracker
-Track those calories
+Calorie tracker made using React
